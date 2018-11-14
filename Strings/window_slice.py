@@ -15,3 +15,5 @@ def window(seq, n=3):
             print(result)
             return True
     return False
+
+
